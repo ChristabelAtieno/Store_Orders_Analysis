@@ -6,7 +6,8 @@ This dataset contains 51,290 rows and 21 columns representing the superstore ord
 **Data cleaning and Preprocessing**
 
 The data was cleaned and preprocessed as follows:
-The order date and ship date were converted to datetime data type and the sales column was converted to float data type
+
+The order date and ship date were converted to datetime data type and the sales column was converted to float data type.
 The unwanted columns were also dropped
 
 **Data Analysis**
