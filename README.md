@@ -12,7 +12,7 @@ The unwanted columns were also dropped
 
 **Data Analysis**
 
-Time series analysis was caried out to check the trend of sales
+Data analysis was caried out to check the trend of sales
 Segmentation and grouped based on categorical variables such as ‘segment’, ‘region’. 
 Grouping data allowed a comparative analysis of performance across different segments and geographical regions. 
 Data visualization: data visualization techniques including line charts, bar graphs, pie charts were employed to present insights and trends visually. 
